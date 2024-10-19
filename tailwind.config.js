@@ -7,7 +7,7 @@ module.exports = {
     },
     extend: {
       backgroundImage:{
-        "home": "url('/assets/fundotrufas.jpg')"
+        "home": "url('/assets/capatrufas.jpg')"
       }
     },
   },
